@@ -3,14 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Nishchay&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Systems%20%C2%B7%20Web%20%C2%B7%20Security%20%C2%B7%20Markets%20%C2%B7%20AI&descSize=18&descAlignY=60" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=CS+undergrad+%26+full-stack+builder;Building+in+C%2B%2B%2C+JavaScript+%26+SQL;Into+Web3%2C+Security%2C+Quant%2C+Data+%26+SaaS;Shipping+things+end+to+end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-stack+builder+%26+problem+solver;Building+in+C%2B%2B%2C+JavaScript+%26+SQL;Into+Web3%2C+Security%2C+Quant%2C+Data+%26+SaaS;Shipping+things+end+to+end" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7c3aed&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+![Profile Views](https://komarev.com/ghpvc/?username=NishchaySingh200615&label=Profile%20Views&color=7c3aed&style=flat)
+[![LeetCode](https://img.shields.io/badge/LeetCode-nishchay283-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/nishchay283/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishchay-singh2006/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nishchay283@gmail.com)
 
 </div>
 
@@ -20,7 +21,7 @@
 ---
 
 ## 👋 About
-CS undergrad who likes building things end to end, from database schema to deployed frontend. My interests run wide on purpose: low-level systems, web apps, data, security, markets, and anything on-chain. Indian Olympiad Qualifier in Mathematics (IOQM, 2023).
+I like building things end to end, from database schema to deployed frontend. My interests run wide on purpose: low-level systems, web apps, data, security, markets, and anything on-chain. Indian Olympiad Qualifier in Mathematics (IOQM, 2023).
 
 ## 🧭 What I'm Into
 | Domain | What pulls me in |
@@ -38,9 +39,9 @@ CS undergrad who likes building things end to end, from database schema to deplo
 ## 📌 Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [**FinTrack**](LINK) | Group expense-sharing app: accounts with Row Level Security, groups, split transactions, friend requests, repayments. Group transactions and allocations are written atomically via a PostgreSQL function. [Live demo](LIVE_LINK) | JavaScript, HTML/CSS, Supabase, PostgreSQL |
-| [**Limit Order Book Simulator**](LINK) | Bid/ask price levels with FIFO queues per level, partial fills, and cleanup of filled orders and empty levels. Console example prints trade executions. | C++, STL |
-| [**AI Video Clipper**](LINK) | 🚧 In progress. Turns a long-form video into concise short-form clips. | AI / Video |
+| [**FinTrack**](https://github.com/NishchaySingh200615/FINTRACK_REPO) | Group expense-sharing app: accounts with Row Level Security, groups, split transactions, friend requests, repayments. Group transactions and allocations are written atomically via a PostgreSQL function. [Live demo](https://nishchaysingh200615.github.io/FINTRACK_REPO/) | JavaScript, HTML/CSS, Supabase, PostgreSQL |
+| [**Limit Order Book Simulator**](https://github.com/NishchaySingh200615/CPP-OrderBook) | Bid/ask price levels with FIFO queues per level, partial fills, and cleanup of filled orders and empty levels. Console example prints trade executions. | C++, STL |
+| [**AI Video Clipper**](https://github.com/NishchaySingh200615/AI-CLIPPER) | 🚧 In progress. Turns a long-form video into concise short-form clips. | AI / Video |
 
 ## 🛠 Tech Stack
 <p>
@@ -89,6 +90,6 @@ CS undergrad who likes building things end to end, from database schema to deplo
 | **Practices** | Version control, clean commits, debugging, writing docs, shipping end to end |
 
 ## 🧮 Problem Solving
-Practicing on **LeetCode** and **Codeforces**.
+Practicing on [**LeetCode**](https://leetcode.com/u/nishchay283/) and **Codeforces**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%" />
